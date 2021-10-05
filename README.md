@@ -19,4 +19,4 @@ npm run build
 See [Configuration Reference](https://cli.vuejs.org/config/).
 # live-chat
 
-![Here is what the live application looks like](https://github.com/gustavNdamukong/live-chat/blob/public/live-chat1.png?raw=true)
+![Here is what the live application looks like](https://github.com/gustavNdamukong/live-chat/blob/main/public/live-chat1.png?raw=true)
