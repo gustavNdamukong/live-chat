@@ -21,4 +21,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ![Here is what the live application looks like](https://github.com/gustavNdamukong/live-chat/blob/main/public/live-chat1.png?raw=true)
 
-(https://github.com/gustavNdamukong/live-chat/blob/main/public/live-chat2.png?raw=true)
+![The actual chatroom after loggin in](https://github.com/gustavNdamukong/live-chat/blob/main/public/live-chat2.png?raw=true)
